@@ -38,7 +38,8 @@ baris = 10
 kolom = baris
 ```
 Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar 
-yang ada dibawah ini
+yang ada dibawah ini :
+
 ![Foto Lat1](foto/hasilshoba.PNG) <br>
 
 ## PRAKTIKUM 1 - LATIHAN 2

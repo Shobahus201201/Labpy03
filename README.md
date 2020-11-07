@@ -40,7 +40,7 @@ kolom = baris
 Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar 
 yang ada dibawah ini :
 
-![Foto Lat1](foto/hasilshoba.PNG) <br>
+![Foto Lat1](foto/shoba2.PNG) <br>
 
 ## PRAKTIKUM 1 - LATIHAN 2
 

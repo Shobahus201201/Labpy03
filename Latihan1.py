@@ -13,7 +13,7 @@ if N>0:
    distance=max-min
    rata2=total/x
    print("Bilangan Terbesarnya =",max)
-   print("Bilangan Terkecilnys =",min)
+   print("Bilangan Terkecilnya =",min)
    print("Range =",distance)
    print("Total = ",total)
    print("Rata-Rata = ",rata2)

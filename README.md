@@ -8,8 +8,7 @@ Jadi pada pertemuan ini saya diberikan beberapa tugas oleh dosen saya yaitu dian
 
 ## PRAKTIKUM 1 - LATIHAN 1
 
-![Latihan 1](https://user-images.githubusercontent.com/72906579/98334113-bf038800-2034-11eb-84c8-64df89391412.
-png) <br>
+![Latihan 1](foto/shoba1.png) <br>
 
 Pada tugas pertama, saya diminta untuk membuat sebuah program pengulangan bertingkat yang nantinya akan 
 menghasilkan output seperti gambat diatas.

@@ -39,8 +39,7 @@ kolom = baris
 ```
 Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar 
 yang ada dibawah ini
-![Foto Lat1](https://user-images.githubusercontent.com/72906579/98335425-80230180-2037-11eb-946c-b5b4be44920f.
-png) <br>
+![Foto Lat1](foto/hasilshoba.PNG) <br>
 
 ## PRAKTIKUM 1 - LATIHAN 2
 

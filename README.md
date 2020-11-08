@@ -49,7 +49,7 @@ Output:
 ## Tugas Praktikum 3
 ![program-1-modul3](foto1/Tugas.png)
 
-![code-3-3](foto1/praktikum6.png)
+![code-3-3](foto1/slamet12.PNG)
 
 Penjelasan:
 * Variabel ``a = 100.000.000`` modal awal

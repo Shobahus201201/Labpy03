@@ -47,9 +47,9 @@ Output:
 
 
 ## Tugas Praktikum 3
-![program-1-modul3](assets/img/praktikum-3/3.png)
+![program-1-modul3](foto1/Tugas.png)
 
-![code-3-3](assets/img/code/code-3-3.png)
+![code-3-3](foto1/praktikum6.png)
 
 Penjelasan:
 * Variabel ``a = 100.000.000`` modal awal
@@ -73,7 +73,7 @@ Penjelasan:
 
 Output:
 
-![program-1-out-modul3](assets/img/praktikum-3/3.1.png)
+![program-1-out-modul3](foto1/praktikum5.png)
 
 
 

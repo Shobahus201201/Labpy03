@@ -26,7 +26,7 @@ Output:
 ## Latihan 2
 ![latihan2-modul3](foto1/praktikum4.png)
 
-![code-2-3](foto1/praktikum6.PNG)
+![code-2-3](foto1/input.PNG)
 
 Penjelasan:
 * Integer max = 0
@@ -43,7 +43,7 @@ Penjelasan:
 
 Output:
 
-![latihan-2-outmodul-3](foto1/praktikum5.PNG)
+![latihan-2-outmodul-3](foto1/bilangan.PNG)
 
 
 ## Tugas Praktikum 3

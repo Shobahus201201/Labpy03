@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="SHOBAHUS12"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-11-08 08:32:46 AM"/>
+        <attribute name="created" value="U0hPQkFIVVMxMjtERVNLVE9QLTRRMThSOU07MjAyMC0xMS0wODswODoyMjoxMSBBTTsyOTk4"/>
+        <attribute name="edited" value="U0hPQkFIVVMxMjtERVNLVE9QLTRRMThSOU07MjAyMC0xMS0wODswODozMjo0NiBBTTsxOzMxMTU="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="Nilai8, Nilai9, Nilai10" type="Integer" array="False" size=""/>
+            <input variable="Nilai8"/>
+            <input variable="Nilai9"/>
+            <input variable="Nilai10"/>
+            <if expression="Nilai8&gt;Nilai9">
+                <then>
+                    <if expression="Nilai8&gt;Nilai10">
+                        <then>
+                            <output expression="Nilai10&amp;&quot;Terbesar&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="Nilai8&amp;&quot;Terbesar&quot;" newline="True"/>
+                        </else>
+                    </if>
+                </then>
+                <else>
+                    <if expression="Nilai9&gt;Nilai10">
+                        <then>
+                            <output expression="Nilai9&amp;&quot;Terbesar&quot;" newline="True"/>
+                        </then>
+                        <else>
+                            <output expression="Nilai10&amp;&quot;Terbesar&quot;" newline="True"/>
+                        </else>
+                    </if>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

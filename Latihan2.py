@@ -1,9 +1,11 @@
-
-baris = 10
-kolom = baris
-
-for bar in range(baris):
-    for col in range(kolom):
-        tab = bar+col
-        print("{0:>5}".format(tab), end='')
-    print()
+N=int(input("silahkan masukan jumlah bilangan ="))
+if N>0:
+    i=1
+    x=int(input("masukan bilangan "+str(i)+"="))
+    max=x;total=x
+    for i in range(2,N+1):
+        x=int (input("masukan bilangan "+str(i)+"="))
+        total+=x
+        if max<x:
+            max=x
+    print("bilangan terbesar adalah =",max)

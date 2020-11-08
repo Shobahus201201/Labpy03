@@ -1,82 +1,144 @@
 # Labpy03
 
-**NAMA : SHOBAHUS SOLICHIN** <br>
-**KELAS : TI.20.A1** <br>
-**NIM    :310020076**
+**Nama : SHOBAHUS SOLICHIN** <br>sss
+**Kelas :TI.20.A1** <br>
+**Nim :312010076** <br>
 
-Jadi pada pertemuan ini saya diberikan beberapa tugas oleh dosen saya yaitu diantaranya:
+# Modul Praktikum 3
+## Latihan 1
+![latihan1-modul3](Foto/shoba1.png)
 
-## PRAKTIKUM 1 - LATIHAN 1
+![code-1-3](Foto/shoba2.PNG)
 
-![Latihan 1](foto/shoba1.png) <br>
+Penjelasan:
+* ``import random`` berfungsi untuk memanggil library random, dimana random berfungsi untuk menentukan pilihan secara acak
+* ``nilai = int(input('Masukan nilai n : '))`` untuk menginputkan nilai berupa integer
+* range() berfungsi menghasilkan list
+* masukkan ``i = random.uniform (.0,.5)`` di gunakan untuk menampilkan bilangan float random, lalu masukkan a+=1 untuk memberi nomer pada 
+bilangan float.
+* ``print('data ke :',a,'==>', i)`` untuk menampilkan output data
 
-Pada tugas pertama, saya diminta untuk membuat sebuah program pengulangan bertingkat yang nantinya akan 
-menghasilkan output seperti gambat diatas.
-Untuk bisa dapat menghasilkan output tersebut maka saya memasukan syntax:
-```python
-baris = 10
-kolom = baris
+Output:
 
-for bar in range(baris):
-    for col in range(kolom):
-        tab = bar+col
-        print("{0:>5}".format(tab), end='')
-    print()
-```
-Mengapa demikian? Karena untuk dapat melakukan pengulangan bertingkat kamu perlu memasukan 
-```python
-for bar in range(baris):
-    for col in range(kolom):
-        tab = bar+col
-        print("{0:>5}".format(tab), end='')
-    print()
-```
-dan karena pada syntax tersebut kamu membutuhkan baris dan kolom maka sebelum memasukan syntax diatas kamu perlu 
-menambahkan keterangan baris dan kolom sesuai yang kalian butuhkan seperti ini.
-```python
-baris = 10
-kolom = baris
-```
-Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar 
-yang ada dibawah ini :
+![latihan2.2](Foto/shoba3.PNG)
 
-![Foto Lat1](foto/shoba2.PNG) <br>
+## Latihan 2
+![latihan2-modul3](.png)
 
-## PRAKTIKUM 1 - LATIHAN 2
+![code-2-3](assets/img/code/code-2-3.png)
 
-![Latihan 2](https://user-images.githubusercontent.com/72906579/98334141-d17dc180-2034-11eb-8f93-2c8117283027.
-png) <br>
+Penjelasan:
+* Integer max = 0
 
-Di tugas ke dua, saya diminta untuk mencari nilai acak yang bernominal dibawah 0,5. Maka saya memasukan syntax:
-```python
-import random
-print(40*"=")
-print("Bilangan random yang lebih kecil dari 0,5")
-print(40*"=")
-jum = int( input("Masukan nilai n : "))
-i = 0
-for i in range(jum):
-    i += 1
-    angkaDec = random.uniform(0, 0.5)
-    print("Data ke", i, " = ", angkaDec)
-```
-Syntax dibawah ini digunakan untuk mencari nilai random
-```python
-import random
-```
-Sementara untuk menentukan jumlah input yang diinginkan maka perlu memasukan
-```python
-jum = int( input("Masukan nilai n : "))
-```
-dan untuk menampilkan urutan data sesuai jumlah inputan dengan hasil di bawah 0.5 perlu memasukan
-```python
-angkaDec = random.uniform(0, 0.5)
-    print("Data ke", i, " = ", angkaDec)
-```
-Jika sudah memasukan semua syntax diatas dan telah di run, maka kamu akan mendapatkan tampilan seperti gambar 
-yang ada dibawah ini
+* fungsi perulangan ``while true`` hingga menampilkan perulangan sampai batas tertentu.
 
-![Foto Lat2](https://user-images.githubusercontent.com/72906579/98340266-b19fcb00-203f-11eb-8660-6c72540b8626.
-png) <br>
+* Memasukan bilangan integer pada "a"
 
-___________________________________________________________________________________________________
+* Menggunakan fungsi ``if`` jika max kurang dari nilai a, maka max sama dengan a
+
+* Mengunakan fungsi ``if`` jika nilai a adalah 0 maka fungsi ``break`` artinya perulangan berhenti jika menulis nilai 0
+
+* Mencetak nilai paling terbesar setelah ``break``, sehingga menampilkan nilai terbesar diantara bilangan tersebut dalam perulangan.
+
+Output:
+
+![latihan-2-out-modul3](assets/img/praktikum-3/2.1.png)
+
+
+## Tugas Praktikum 3
+![program-1-modul3](assets/img/praktikum-3/3.png)
+
+![code-3-3](assets/img/code/code-3-3.png)
+
+Penjelasan:
+* Variabel ``a = 100.000.000`` modal awal
+
+* Menggunakan fungsi looping for pada nilai x 1-9 untuk menampilkan bulan 1 sampai bulan 8.
+
+* Menggunakan fungsi ``if``, untuk menghitung laba bulan 1 sampai 8
+
+* Bulan pertama dan kedua laba adalah 0
+
+* Bulan ke 3 dan ke 4 mendapat laba 1% sehingga modal di kali 1% = keuntungan
+
+* Bulan ke 5 mendapatkan laba 5%, sehingga modal dikali 5% = keuntungan
+
+* Bulan ke 8 mendapatkan laba 2% sehingga keuntungan menurun dari bulan sebelumnya, modal dikali 2% = keuntungan.
+
+* Menghitung jumlah total laba dengan menjumlah keuntungan dari bulan ke 1 sampai bulan 8, hasilnya adalah total keuntungan yang didapat 
+``total=b+b+c+c+d+d+d+e``
+
+* ``print("\Total : ",total)``, untuk menampilkan hasil keseluruhan laba dari bulan pertama sampai bulan kedelapan.
+
+Output:
+
+![program-1-out-modul3](assets/img/praktikum-3/3.1.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

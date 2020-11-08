@@ -21,7 +21,7 @@ bilangan float.
 
 Output:
 
-![latihan2.2](Foto/shoba3.PNG)
+![latihan2.2](foto1/praktikum3.PNG)
 
 ## Latihan 2
 ![latihan2-modul3](.png)

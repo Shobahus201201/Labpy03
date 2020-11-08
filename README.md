@@ -43,7 +43,7 @@ Penjelasan:
 
 Output:
 
-![latihan-2-out-modul3].png)
+![latihan-2-outmodul-3](foto1/praktikum5.PNG)
 
 
 ## Tugas Praktikum 3

@@ -1,13 +1,13 @@
 # Labpy03
 
-**Nama : SHOBAHUS SOLICHIN** <br>sss
+**Nama : SHOBAHUS SOLICHIN** <br>
 **Kelas :TI.20.A1** <br>
 **Nim :312010076** <br>
 
 # Modul Praktikum 3
 ## Latihan 1
 
-![latihan1](Foto/shobahus1.png)
+![latihan1](Foto/praktikum1.png)
 
 ![code-1-3](Foto/shoba2.PNG)
 

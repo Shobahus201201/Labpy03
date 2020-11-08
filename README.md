@@ -9,7 +9,7 @@
 
 ![Latiahn1](foto1/praktikum1.png)
 
-![code-1-3](Foto/shoba2.PNG)
+![code-1-3](foto1/praktikum2.PNG)
 
 Penjelasan:
 * ``import random`` berfungsi untuk memanggil library random, dimana random berfungsi untuk menentukan pilihan secara acak

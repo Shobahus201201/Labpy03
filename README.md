@@ -17,14 +17,14 @@ Penjelasan:
 * range() berfungsi menghasilkan list
 * masukkan ``i = random.uniform (.0,.5)`` di gunakan untuk menampilkan bilangan float random, lalu masukkan a+=1 untuk memberi nomer pada 
 bilangan float.
-* ``print('data ke :',a,'==>', i)`` untuk menampilkan output data
+* ``print('data ke :',a,'=', i)`` untuk menampilkan output data
 
 Output:
 
 ![latihan2.2](foto1/praktikum3.PNG)
 
 ## Latihan 2
-![latihan2-modul3](.png)
+![latihan2-modul3](foto1/praktikum4.png)
 
 ![code-2-3](assets/img/code/code-2-3.png)
 

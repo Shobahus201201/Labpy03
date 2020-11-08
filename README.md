@@ -75,6 +75,8 @@ Output:
 
 ![program-1-out-modul3](foto1/praktikum5.PNG)
 
+## Terima Kasih
+
 
 
 

@@ -7,7 +7,7 @@
 # Modul Praktikum 3
 ## Latihan 1
 
-![latihan1modul3](Foto/shobahus1.png)
+![latihan1](Foto/shobahus1.png)
 
 ![code-1-3](Foto/shoba2.PNG)
 

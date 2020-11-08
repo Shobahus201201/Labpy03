@@ -73,7 +73,7 @@ Penjelasan:
 
 Output:
 
-![program-1-out-modul3](foto1/praktikum5.png)
+![program-1-out-modul3](foto1/praktikum5.PNG)
 
 
 
